@@ -14,8 +14,9 @@
 
 <div style="margin-top: 5vh">
     <div style="float: right; max-width: 49%">
-        <img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 190px; border-radius: 100px">
+        <img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 190px; border: 1px solid black">
     </div>
+    <br>
     <div style="float: left; max-width: 50%">
         <p>✨ Creating bugs since 2020</p>
         <p>📚 I'm currently studying on the Technical University of Košice</p>
