@@ -13,10 +13,6 @@
 ###
 
 <div style="margin-top: 5vh">
-    <div style="float: right; max-width: 49%">
-        <img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 190px; border: 1px solid black; border-radius: 190px">
-    </div>
-    <br>
     <div style="float: left; max-width: 50%">
         <p>✨ Creating bugs since 2020</p>
         <p>📚 I'm currently studying on the Technical University of Košice</p>
@@ -54,8 +50,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
 </div>
