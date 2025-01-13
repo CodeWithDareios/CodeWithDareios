@@ -14,7 +14,7 @@
 
 <div style="margin-top: 5vh">
     <div style="float: right; max-width: 49%">
-        <img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 40%; margin-left: 25%; border-radius: 100%">
+        <img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 190px; margin-left: 25%; border-radius: 100%">
     </div>
     <div style="float: left; max-width: 50%">
         <p>✨ Creating bugs since 2020</p>
