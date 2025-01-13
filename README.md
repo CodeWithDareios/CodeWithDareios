@@ -14,7 +14,7 @@
 
 <div style="margin-top: 5vh">
     <div style="float: right; max-width: 49%">
-        <img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 190px; border: 1px solid black">
+        <img align="right" src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 190px; border: 1px solid black; border-radius: 190px">
     </div>
     <br>
     <div style="float: left; max-width: 50%">
