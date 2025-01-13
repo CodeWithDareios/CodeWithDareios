@@ -19,7 +19,7 @@
         <p>🎯 Goals: Become a fullstack developer</p>
         <p>🎲 Fun fact: I like light mode🤫🤞 (just kidding)</p>
     </div>
-    <div style="float: right; min-width: 40%; max-width: 49%">
+    <div style="float: right; max-width: 49%">
         <img src="https://lh3.googleusercontent.com/a/ACg8ocJeNno6IlisToKxKsYuP7R4i4aduoX7aBsBPgqt3KOONMKFaXI=s288-c-no" style="width: 40%; margin-left: 25%; border-radius: 100%">
     </div>
 
