@@ -1,5 +1,5 @@
 # 💫 About Me:
-✨ Creating bugs since 2020<br>📚 I'm currently studying on the Technical University of Košice<br>🎯 Goals: Become a fullstack developer<br>🎲 Fun fact: I like light mode🤫🤞 (just kidding, nobody likes light mode)
+✨ Creating bugs since 2020<br>📚 I'm currently studying at the Technical University of Košice<br>🎯 Goals: Become a fullstack developer<br>🎲 Fun fact: I like light mode🤫🤞 (just kidding, nobody likes light mode)
 
 
 ## 🌐 Socials:
